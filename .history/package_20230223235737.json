@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "install": "^0.13.0",
+    "mysql": "^2.18.1",
+    "sequelize": "^6.29.0"
+  },
+  "name": "orm-1",
+  "description": "orm",
+  "version": "1.0.0",
+  "main": "ser",
+  "scripts": {
+    "test": "Is this working?"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codinglov/orm.git"
+  },
+  "keywords": [
+    "orm"
+  ],
+  "author": "laura makokha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codinglov/orm/issues"
+  },
+  "homepage": "https://github.com/codinglov/orm#readme"
+}

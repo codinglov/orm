@@ -1,7 +1,7 @@
 const express = require('express');
 const routes = require('./routes');
 
-const Sequelize = require('sequelize')
+const Sequelize
 // import sequelize connection
 
 const app = express();
